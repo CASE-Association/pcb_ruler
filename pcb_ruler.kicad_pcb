@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 363)
+    (drawings 362)
     (tracks 0)
     (zones 0)
     (modules 35)
@@ -2092,7 +2092,7 @@
   (gr_text DIN965 (at 223.8 121 90) (layer F.SilkS) (tstamp 5EFB64AE)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "CASE PCB Ruler v.1.1\nD. Quach 2020" (at 114 136) (layer B.Mask) (tstamp 5EF90222)
+  (gr_text "CASE PCB Ruler v.1.1\nD. Quach 2020" (at 102.1 125.6 270) (layer B.Mask) (tstamp 5EF90222)
     (effects (font (size 0.8 0.8) (thickness 0.15)) (justify left mirror))
   )
   (gr_text "Elektrovägen 3\n412 58 Göteborg\nSweden" (at 249.8 121) (layer B.Mask) (tstamp 5EF8F5B6)
@@ -2215,7 +2215,6 @@
   (gr_line (start 107.62 136.29) (end 107.62 137.56) (layer F.Mask) (width 0.15) (tstamp 5EF98ECA))
   (gr_line (start 105.08 136.29) (end 105.08 137.56) (layer F.Mask) (width 0.15) (tstamp 5EF98ECA))
   (gr_line (start 102.54 136.3) (end 102.54 137.56) (layer F.Mask) (width 0.15))
-  (gr_line (start 217.1 130) (end 217.1 110) (layer Cmts.User) (width 0.15))
   (gr_text M4 (at 215.6 125.7) (layer F.SilkS) (tstamp 5EFB6499)
     (effects (font (size 1 1) (thickness 0.15)))
   )
